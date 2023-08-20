@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dracarys09
-- I'm a Software Engineer at Apple working on large scale distributed systems
+- I'm a **Software Engineer at Apple** working on large scale distributed systems
 - 👀 I’m interested in **NLP** and **large scale distributed systems**
 - 🌱 I’m currently learning more about **Foundation Models**
 - 💞️ I’m looking to collaborate on using LLMs to solve India specific problems
